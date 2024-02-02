@@ -7,7 +7,7 @@ interface BookingListProps {
     }
 
 const BookingList = () => {
-    return (  );
+    return ( <></> );
 }
  
 export default BookingList;
